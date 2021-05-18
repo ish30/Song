@@ -1,0 +1,24 @@
+	//my favorite song name
+        val songName: String = "Chandra Payanna"
+
+        //my favorite song artiste
+        val artiste: String = "Shashika Nisansala"
+
+        //my favorite song lyrics
+        val lyrics: String = "Manuranga Wijesekara"
+
+        //my favorite song melody
+        val melodyAndMusic: String = "Dinesh Gamage"
+
+        //my favorite song music composed
+        val musicComposed: String = "Amith Guru and Gayan Randy"
+
+        //my favorite song video director
+        val videoDirector: String = "Chamil Pathirana"
+
+        /*my favorite song other details*/
+        val views: int = 1708056
+        val releaseDate: int = 30
+        val releaseMonth: String = "April"
+        val releaseYear: int = 2021
+        val videoDuration: Double = 4.24
